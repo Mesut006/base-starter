@@ -1,0 +1,2 @@
+# base-starter
+Basic smart
